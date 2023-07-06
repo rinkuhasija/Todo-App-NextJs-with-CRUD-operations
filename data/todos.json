@@ -1,0 +1,28 @@
+{
+    "tasks": [
+        {
+            "id": "1",
+            "title": "buy Milk and orange",
+            "description": "Buy milk 2l. and 1kg orange from megaStore",
+            "status": "in progress"
+        },
+        {
+            "id": "2",
+            "title": "buy Almond",
+            "description": "order almond online",
+            "status": "completed"
+        },
+        {
+            "id": "3",
+            "title": "Deposit cheque in Bank",
+            "description": "Deposit the $100 cheque in AT BANK before 2pm",
+            "status": "to do"
+        },
+        {
+            "id": "4",
+            "title": "Pickup parcel ",
+            "description": "Pickup the Parcel from Post ofiice",
+            "status": "in progress"
+        }
+    ]
+}
