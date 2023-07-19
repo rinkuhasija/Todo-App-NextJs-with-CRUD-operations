@@ -6,7 +6,7 @@ const AddTask = () => {
     const [modalOpen, setModalOpen] = useState<boolean>(false)
     const [newTaskValue, setNewTaskValue] = useState<string>('')
 
-    const handleSubmitNewTodo = (e) => {
+    const handleSubmitNewTodo = (e:any) => {
         e.preventDefault();
         console.log(newTaskValue);
         setNewTaskValue("")
